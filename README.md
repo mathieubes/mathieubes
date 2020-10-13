@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Je suis un p'tit jeune **développeur Freelance** qui en veux !
+
+Ma description est en cours de déploiement ❔😆
+N'hésitez pas à revenir peut être plus tard.
