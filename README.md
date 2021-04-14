@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Je suis un p'tit jeune **développeur Freelance** !
+Je suis un p'tit jeune **développeur** !
 
-Ma description est en cours de déploiement ❔😆
-N'hésitez pas à revenir peut être plus tard.
+Avant d'être un développeur je suis avant tout passioné de design ❤️
