@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Je suis un p'tit jeune **développeur** !
 
-Avant d'être un développeur je suis avant tout passioné de design ❤️
+Passioné de dev <3
